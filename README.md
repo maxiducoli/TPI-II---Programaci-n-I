@@ -1,4 +1,4 @@
-# Trabajo Práctico Integrador II - Programación I
+# Trabajo Práctico Integrador - Programación I
 Trabajo práctico integrador II de Programación I , correspondiente a la Tecnicatura Universitaria en Programación a distancia dictada por la UTN .
 
 # 👥 Alumnos
